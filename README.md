@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/vXRD4cw/Picsart-23-09-15-20-04-24-074.png" alt="Ashakur Rahman Rasel" width="350px">
+  <img src="https://i.ibb.co/vXRD4cw/Picsart-23-09-15-20-04-24-074.png" alt="Ashakur Rahman Rasel" width="250px">
 </p>
 
 ---
