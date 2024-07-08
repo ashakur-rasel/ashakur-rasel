@@ -1,7 +1,7 @@
 <!-- Hey there! I'm Ashakur Rahman Rasel -->
 <h1 align="center">👋 Hey there! I'm Ashakur Rahman Rasel</h1>
 
-<h3 align="center">🎓 Final year BSc. Computer Science and Engineering student at IIUC</h3>
+<h3 align="center">Final Year BSc. in Computer Science & Engineering | Software Quality Assurance (SQA) Intern at Dream71 Bangladesh Ltd. | Aspiring SQA Engineer | Manual Testing | Automation Testing</h3>
 
 <p align="center">
   <a href="https://www.google.com/search?q=Ashakur+Rahman+Rasel">Google</a> •
