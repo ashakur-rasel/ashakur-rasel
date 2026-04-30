@@ -45,20 +45,20 @@
   <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> Windows,
   <img src="https://img.icons8.com/color/48/000000/linux.png"/> Linux
 
-### 🚀 About Me
+### About Me
 
-- 🌟 Passionate about Cybersecurity, with expertise in Cryptography, Steganography, OSINT, Web Security, Networking, and Digital Forensics.
-- 🛡️ Proficient in using tools like [Burp Suite](https://portswigger.net/burp), [Wireshark](https://www.wireshark.org/), and [Autopsy](https://www.sleuthkit.org/autopsy/) for cybersecurity tasks.
-- 💻 Experienced with both Windows and Linux operating systems; Linux is my go-to for cybersecurity tasks.
-- 🌱 Currently focused on mastering **Software Quality Assurance (SQA)**, including manual testing, test case creation, SDLC, STLC, and more.
-- 🔍 My next learning goal is to delve into Automation in SQA.
-- 💬 Feel free to reach out to me for discussions on Cybersecurity, SQA, or programming languages like C, C++, and Java.
-
----
-
-### 📊 GitHub Stats
+-  Passionate about Cybersecurity, with expertise in Cryptography, Steganography, OSINT, Web Security, Networking, and Digital Forensics.
+-  Proficient in using tools like [Burp Suite](https://portswigger.net/burp), [Wireshark](https://www.wireshark.org/), and [Autopsy](https://www.sleuthkit.org/autopsy/) for cybersecurity tasks.
+-  Experienced with both Windows and Linux operating systems; Linux is my go-to for cybersecurity tasks.
+-  Currently focused on mastering **Software Quality Assurance (SQA)**, including manual testing, test case creation, SDLC, STLC, and more.
+-  My next learning goal is to delve into Automation in SQA.
+-  Feel free to reach out to me for discussions on Cybersecurity, SQA, or programming languages like C, C++, and Java.
 
 ---
 
-### 🌟 Top Projects
+###  GitHub Stats
+
+---
+
+###  Top Projects
 
